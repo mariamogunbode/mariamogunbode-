@@ -33,4 +33,4 @@ Frontend Developer passionate about building responsive, user-friendly, and mode
 📫 Connect With Me
 
 - GitHub: github.com/mariamogunbode
-- LinkedIn: (add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/mariam-ogunbode-917759246
